@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ionescuaandrei" alt="ionescuaandrei" /></a> </p>
 
+- 🖋️ I’m currently studying [Computer Engineering at UPB FILS](https://fils.upb.ro/ro/home/)
+
 - 🔭 I’m currently working on [PlugHunt](https://github.com/Alexandrudiun/IDCREW)
 
-- 🌱 I’m currently learning **React-Native, NextJS, Express**
+- 🫂 Part of the ID CREW team.
 
-- 👯 I’m looking to collaborate on **Big Project that have inovation**
-
-- 👨‍💻 All of my projects are available at [ionescuaandrei.com (soon)](ionescuaandrei.com (soon))
-
-- 💬 Ask me about **React, HTML, CSS ,JS**
+- 👨‍💻 All of my projects are available at [idcrew.ro (soon)](ionescuaandrei.com (soon))
 
 - 📫 How to reach me **andreiionescu750@gmail.com**
 
