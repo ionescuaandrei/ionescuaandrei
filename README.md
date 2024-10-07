@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **andreiionescu750@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XuA4OZlI0XkjGfpFfdIf5ywJ6vrGodS_/view?usp=sharing](https://drive.google.com/file/d/1XuA4OZlI0XkjGfpFfdIf5ywJ6vrGodS_/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XuA4OZlI0XkjGfpFfdIf5ywJ6vrGodS_/view?usp=sharing](https://drive.google.com/file/d/1y6MXJm_wj1BgLByUhnzAak-bz1z0i8dV/view?usp=drive_link)
 
 - ⚡ Fun fact **I know other tools like Photoshop, Premiere Pro, AfterEffects, and I have a good knowledge about filmmaking**
 
