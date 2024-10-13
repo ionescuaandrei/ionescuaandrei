@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Ionescu Andrei</h1> <h3 align="center">Frontend Developer | Hackathon Winner | Tech Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ionescuaandrei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-💻 Studying: Computer Engineering @ UPB FILS
-🚀 Working on: PlugHunt
-👨‍💻 ID CREW Team: Building innovative solutions.
-🌐 Portfolio: Coming soon @ idcrew.ro
-📧 Reach me: andreiionescu750@gmail.com
+<h1 align="center">Hi there 👋, I'm Ionescu Andrei</h1> <h3 align="center">Frontend Developer | Hackathon Winner | Tech Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ionescuaandrei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <br>
+💻 Studying: Computer Engineering @ UPB FILS <br>
+🚀 Working on: PlugHunt <br>
+👨‍💻 ID CREW Team: Building innovative solutions. <br>
+🌐 Portfolio: Coming soon @ idcrew.ro <br>
+📧 Reach me: andreiionescu750@gmail.com <br>
 ⚡ Quick Facts:
 🏆 Hackathon Wins: Multiple awards in coding and pitching.
 🎥 Skills Beyond Code: Photoshop, Premiere Pro, After Effects, and filmmaking.
