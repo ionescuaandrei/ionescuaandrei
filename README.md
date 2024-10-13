@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ionescu Andrei</h1> <h3 align="center">Frontend Developer | Hackathon Winner | Tech Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ionescuaandrei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<h1 align="center">Hi there 👋, I'm Ionescu Andrei</h1> <h3 align="center">Frontend Developer | Mobile Developer | Graphic Designer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ionescuaandrei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 💻 Studying: <a href="https://fils.upb.ro/ro/home/" target="_blank">Computer Engineering @ UPB FILS</a> <br>
 🚀 Working on: <a href="https://github.com/Alexandrudiun/IDCREW" target="_blank">PlugHunt</a> <br>
 👨‍💻 ID CREW Team: Building innovative solutions <br>
