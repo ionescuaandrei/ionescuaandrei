@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ionescu Andrei</h1> <h3 align="center">Web / Mobile / Design Developer | Hackathon Winner | Tech Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ionescuaandrei&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 💻 Studying: <a href="https://fils.upb.ro/ro/home/" target="_blank">Computer Engineering @ UPB FILS</a> <br>
-🚀 Working on: <a href="https://github.com/ionescuaandrei/rust-backend" target="_blank">Filsify</a> <br>
+🚀 Working on: <a href="https://github.com/ionescuaandrei/rust-backend" target="_blank">Rust Task Manager</a> <br>
 👨‍💻 ID CREW Team: Building innovative solutions <br>
 🌐 Portfolio: <a href="https://ionescuaandrei.com" target="_blank">Coming soon @ idcrew.ro</a> <br>
 📧 Reach me: andreiionescu750@gmail.com <br>
